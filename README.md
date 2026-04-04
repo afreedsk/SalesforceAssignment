@@ -1,7 +1,3 @@
-Here’s a **clean, professional, industry-level README** you can directly use 👇
-
----
-
 # 🚀 Salesforce Validation Rule Switcher
 
 A full-stack web application that integrates **React.js** with **Salesforce APIs** using **OAuth 2.0**. This project enables users to securely authenticate with Salesforce, retrieve validation rules, and simulate toggling their active state through a modern dashboard interface.

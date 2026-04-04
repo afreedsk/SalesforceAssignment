@@ -31,5 +31,5 @@ A full-stack integration project that connects a React web application with Sale
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/afreedsk/SalesforceAssignment
+cd .\salesforce-app\

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 
 const CLIENT_ID = "3MVG9rZjd7MXFdLjT2mmpNSaEdqBwcCptioNbACELYrmeI85QfFOauwlk9Z1xDPrwTA.CT57s79oz9DfyhOs6"; 
-const REDIRECT_URI = "https://69d156983b0b3df573907641--keen-sprite-ea00a1.netlify.app/";
+const REDIRECT_URI = "https://stunning-pie-ae7c2f.netlify.app";
 
 function App() {
   const [accessToken, setAccessToken] = useState("");

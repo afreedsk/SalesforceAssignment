@@ -36,39 +36,46 @@ cd .\salesforce-app\
 
 2️⃣ Install Dependencies
 npm install
+
+
+---------------------------
+
 3️⃣ Update Credentials
 
 Edit App.js:
 
 const CLIENT_ID = "YOUR_CONSUMER_KEY";
 const REDIRECT_URI = "http://localhost:3000";
+
 4️⃣ Run Application
 npm start
+
 5️⃣ Build for Production
 npm run build
+
 🔐 Salesforce Configuration
 Create a Connected App
 Enable OAuth Settings
 Add Callback URL:
 http://localhost:3000
 https://your-netlify-app.netlify.app
+
 Add OAuth Scopes:
 api
 refresh_token
+
 ⚠️ Important Notes
 Salesforce does not directly allow enabling/disabling validation rules via REST API.
 Tooling API is used for demonstration.
 Deployment is simulated for assignment purposes.
-🌐 Live Demo
 
+🌐 Live Demo
 👉 https://stunning-pie-ae7c2f.netlify.app/
 
 📂 GitHub Repository
-
 👉 https://github.com/afreedsk/SalesforceAssignment
 
 🙋‍♂️ Author
-
 Shaik Afreed
 📧 afreedsk247@gmail.com
 📱 6303083316

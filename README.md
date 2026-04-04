@@ -79,3 +79,7 @@ Deployment is simulated for assignment purposes.
 Shaik Afreed
 📧 afreedsk247@gmail.com
 📱 6303083316
+
+
+⭐ Acknowledgement
+This project was developed as part of the CloudVandana Associate Software Engineer assignment.
